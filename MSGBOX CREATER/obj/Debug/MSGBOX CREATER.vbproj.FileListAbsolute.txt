@@ -1,0 +1,17 @@
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\MSGBOX CREATER.exe
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\MSGBOX CREATER.pdb
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\MSGBOX CREATER.xml
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\Interop.WMPLib.dll
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\Interop.Shell32.dll
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\C4F_P2PCommon.dll
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\AxInterop.WMPLib.dll
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\C4F_P2PWinformControls.pdb
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Debug\C4F_P2PCommon.pdb
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\ResolveAssemblyReference.cache
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\WindowsApplication1.Form1.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\WindowsApplication1.Form2.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\WindowsApplication1.Resources.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\MSGBOX CREATER.vbproj.GenerateResource.Cache
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\MSGBOX CREATER.exe
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\MSGBOX CREATER.xml
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Debug\MSGBOX CREATER.pdb

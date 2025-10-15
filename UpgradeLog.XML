@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MSGBOX CREATER">
+</Property><Property Name="File di soluzione" Value="C:\Users\MERLI\Desktop\Giada &amp; Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER.sln">
+</Property><Property Name="Date" Value="martedì 18 marzo 2014">
+</Property><Property Name="Time" Value="10:55">
+</Property></Properties><Event ErrorLevel="0" Project="MSGBOX CREATER" Source="MSGBOX CREATER\MSGBOX CREATER.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="MSGBOX CREATER" Source="MSGBOX CREATER\MSGBOX CREATER.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MSGBOX CREATER.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="MSGBOX CREATER.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MSGBOX CREATER" Source="MSGBOX CREATER\MSGBOX CREATER.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

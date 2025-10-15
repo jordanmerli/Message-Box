@@ -1,0 +1,31 @@
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\ResolveAssemblyReference.cache
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\MSGBOX CREATER.vbproj.GenerateResource.Cache
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.exe
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.pdb
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.xml
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\yaser_ranjha.Form1.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\yaser_ranjha.Form2.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\yaser_ranjha.Resources.resources
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.exe
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.xml
+G:\software+ghost\Software\programming\110_MSGBOX_CREATER\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\jordan_merli.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Msgboxpro0306\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\jordan_merli.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.exe
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.xml
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\msgbox pro.pdb
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.exe
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.pdb
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\bin\Release\msgbox pro.xml
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\jordan_merli.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\jordan_merli.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\Msgbox pro\MSGBOX CREATER\MSGBOX CREATER\obj\Release\MSGBOX CREATER.vbproj.GenerateResource.Cache
